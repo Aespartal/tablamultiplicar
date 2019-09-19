@@ -1,0 +1,22 @@
+.c1 {
+    color:red;
+}
+#header{
+    width:100%;
+    background-color: beige;
+    border-bottom:1px solid black;
+}
+.h1-header{
+    text-align: center;
+}
+.form1{
+    width:30%;
+    margin:50px auto;
+    background-color:rgb(214, 214, 214);
+    padding:20px;
+    border-radius: 10px;
+    
+}
+.center{
+    text-align: center;
+}
