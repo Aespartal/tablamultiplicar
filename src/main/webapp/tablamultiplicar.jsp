@@ -59,7 +59,7 @@
                     </tr>
 
                     <%}%>
-                    <% }
+                    <%                  }
                                     }
                                 }
                             }
@@ -67,8 +67,7 @@
                             String redirectURL = "index.jsp";
                             JOptionPane.showMessageDialog(null, "El valor tiene que ser numerico", "Error", JOptionPane.ERROR_MESSAGE);
                             response.sendRedirect(redirectURL);
-                        }                    
-}  
+                        }                     
                     %>
                 </tbody>
             </table>
